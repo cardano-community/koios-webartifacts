@@ -5,6 +5,7 @@
       { "name": "homer-redoracle", "addr": "167.114.101.14", "port": 8053},
       { "name": "huthus0lo1", "addr": "koios-mainnet.themorphium.io", "port": 8053},
       { "name": "reqlez", "addr": "192.234.196.168", "port": 8053},
-      { "name": "DCOne Crypto", "addr": "161.97.167.41", "port": 8053}
+      { "name": "DCOne Crypto", "addr": "161.97.167.41", "port": 8053},
+      { "name": "HAPPY Staking 🥳", "addr": "koios.happystaking.io", "port": 8453, "ssl": true}
   ]
 }
